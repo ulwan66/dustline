@@ -1,3 +1,7 @@
+// Dustline (gta6-01): the entry this program hands in is the open-world crime game
+// in game/ — Mara Quinn, five missions, traffic, pedestrians, police and a wanted
+// system, all written in this recorded session. Screenshots are real renders of it.
+//
 // A working gta6-01 entry (Node 22, standard library only): the game is this directory's
 // game/ folder, plain static files a desktop browser loads offline (game/index.html and its ES
 // modules, no library and no network request), and the program hands it in. It copies game/ and
